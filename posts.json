@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "title": "\u0439\u0446\u0443\u0439\u0446\u0443",
+        "content": "\u0439\u0443\u0439\u0446\u0443",
+        "category": "science",
+        "is_active": true,
+        "publication_date": "2024-12-16",
+        "author": "SessionUser"
+    },
+    {
+        "id": 1,
+        "title": "\u0419\u0426\u0419\u0426\u0423",
+        "content": "\u0419\u0426\u0423\u0419\u0426\u0423",
+        "category": "tech",
+        "is_active": false,
+        "publication_date": "2024-12-16",
+        "author": "SessionUser"
+    },
+    {
+        "id": 1,
+        "title": "test",
+        "content": "test",
+        "category": "science",
+        "is_active": true,
+        "publication_date": "2024-12-16",
+        "author": "SessionUser"
+    },
+    {
+        "id": 1,
+        "title": "estt",
+        "content": "test",
+        "category": "science",
+        "is_active": true,
+        "publication_date": "2024-12-16",
+        "author": "SessionUser"
+    },
+    {
+        "id": 1,
+        "title": "\u0435\u0443\u0439\u0443\u0446",
+        "content": "\u0439\u0446\u0443\u0439\u0446\u0443",
+        "category": "science",
+        "is_active": true,
+        "publication_date": "2024-12-16",
+        "author": "SessionUser"
+    },
+    {
+        "id": 1,
+        "title": "\u0439\u0439\u0446\u0443",
+        "content": "\u0439\u0446\u0443",
+        "category": "tech",
+        "is_active": true,
+        "publication_date": "2024-12-16",
+        "author": "SessionUser"
+    },
+    {
+        "id": 1,
+        "title": "\u0439\u0446\u0443",
+        "content": "\u0439\u0443\u0446",
+        "category": "tech",
+        "is_active": false,
+        "publication_date": "2024-12-16",
+        "author": "SessionUser"
+    },
+    {
+        "id": 1,
+        "title": "\u0439\u0446\u0443",
+        "content": "\u0439\u0443",
+        "category": "tech",
+        "is_active": false,
+        "publication_date": "2024-12-16",
+        "author": "SessionUser"
+    },
+    {
+        "id": 1,
+        "title": "\u0439\u0446\u0439\u0446\u0443\u0446\u0443",
+        "content": "\u0439\u0446\u0443\u0439\u0446\u0443\u0446\u0443\u0439\u0443\u0446\u0439\u0443",
+        "category": "tech",
+        "is_active": true,
+        "publication_date": "2024-12-16",
+        "author": "SessionUser"
+    }
+]
